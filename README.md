@@ -1,5 +1,5 @@
-# ruinscraft-plots-issues
-Report issues/bugs reguarding the Plots server on Ruinscraft
+# mcplots-issues
+Report issues/bugs reguarding MCPLOTS
 
 # How to report
 You can either:
